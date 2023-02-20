@@ -5,13 +5,13 @@ This is a capston project completed as part of my Hyperion Bootcamp
 
 Project Description:
 
-For this task, assume that you have been approached by a small financial company and asked to create a program 
-that allows the user to access two different financial calculators: an investment calculator and a home loan 
-repayment calculator.
+Create a function for inventory for a stock for a shoe shop.
+This will allow the user to search shoes in stock, add shoes to the stock and access stock levels. 
+
 
 Project Installation: The project can be run using any IDE capable of running Python files.  
 
-Project Usage: 
+
 
 
 
