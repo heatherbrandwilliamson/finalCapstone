@@ -1,7 +1,7 @@
 
-Capstone Project: 
+Python Project: 
 
-This is a capston project completed as part of my Hyperion Bootcamp 
+This project is in python. 
 
 THE TASK AT HAND
 
